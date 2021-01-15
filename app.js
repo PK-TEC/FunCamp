@@ -12,7 +12,7 @@ const Review = require("./models/review");
 
 mongoose.connect("mongodb://localhost:27017/funcamp", {
 	useCreateIndex: true,
-	useCreateIndex: true,
+	useNewUrlParser: true,
 	useUnifiedTopology: true,
 });
 
