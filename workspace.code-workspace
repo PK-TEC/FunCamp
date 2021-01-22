@@ -1,15 +1,12 @@
 {
 	"folders": [
 		{
-			"name": "web-developer-bootcamp",
 			"path": "../web-developer-bootcamp"
 		},
 		{
-			"name": "FunCamp",
 			"path": "."
 		},
 		{
-			"name": "MyWebsite",
 			"path": "../MyWebsite"
 		}
 	],
