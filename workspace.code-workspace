@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../MyWebsite"
+		},
+		{
+			"path": "../../Downloads/react-portfolio-master"
 		}
 	],
 	"settings": {}
