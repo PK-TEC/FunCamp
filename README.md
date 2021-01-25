@@ -1,2 +1,1 @@
-# FunCamp
-<img>funcamp1.png</img>
+<h1>Fun Camp<h1>
