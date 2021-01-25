@@ -1,2 +1,2 @@
 # FunCamp
-<img src="funcamp1.png"></img>
+<img>funcamp1.png</img>
